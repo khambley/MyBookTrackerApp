@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBookTrackerApp", "MyBookTrackerApp\MyBookTrackerApp.csproj", "{0803FDD2-C107-45FA-A2F2-0E325BC7B8FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBookTrackerApp.Tests", "MyBookTrackerApp.Tests\MyBookTrackerApp.Tests.csproj", "{3E690A7E-B518-4ACE-8D17-B9301CB89123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0803FDD2-C107-45FA-A2F2-0E325BC7B8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0803FDD2-C107-45FA-A2F2-0E325BC7B8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0803FDD2-C107-45FA-A2F2-0E325BC7B8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0803FDD2-C107-45FA-A2F2-0E325BC7B8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E690A7E-B518-4ACE-8D17-B9301CB89123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E690A7E-B518-4ACE-8D17-B9301CB89123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E690A7E-B518-4ACE-8D17-B9301CB89123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E690A7E-B518-4ACE-8D17-B9301CB89123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CCD43E2-5714-4458-9039-190FE180C203}
+	EndGlobalSection
+EndGlobal
